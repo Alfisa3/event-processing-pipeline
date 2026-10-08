@@ -1,0 +1,28 @@
+[
+    {
+        "event_id": "e1001",
+        "user_id": "u101",
+        "event_type": "login",
+        "timestamp": "2026-10-04T10:15:00Z",
+        "source": "mobile"
+    },
+    {
+        "event_id": "e1002",
+        "user_id": "u102",
+        "event_type": "purchase",
+        "timestamp": "2026-10-04T10:19:00Z",
+        "source": "web"
+    },
+    {
+        "event_id": "e1003",
+        "user_id": "u101",
+        "event_type": "logout",
+        "timestamp": "2026-10-04T11:05:00Z",
+        "source": "mobile"
+    }
+
+
+    
+
+    
+]

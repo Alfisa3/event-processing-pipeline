@@ -1,0 +1,7 @@
+event_id,user_id,event_type,timestamp,source
+e2001,u201,login,2026-10-05T09:10:00Z,mobile
+e2002, U202 , PURCHASE ,2026-10-05T09:25:00Z, WEB
+e2003,u201,logout,2026-10-05T10:05:00Z,mobile
+e2004,u203,purchase,2026-10-05T10:30:00Z,web
+e2005,,login,2026-10-05T11:00:00Z,mobile
+e2001,u201,login,2026-10-05T09:10:00Z,mobile
